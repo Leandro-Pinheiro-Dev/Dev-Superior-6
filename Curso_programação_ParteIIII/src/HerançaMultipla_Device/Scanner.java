@@ -1,0 +1,8 @@
+// INTERFACE QUE DECLARA O MÉTODO PARA ESCANEAMENTO DE DOCUMENTOS
+package HerançaMultipla_Device;
+
+public interface Scanner {
+
+    // MÉTODO QUE DEVE SER IMPLEMENTADO PARA ESCANEAR DOCUMENTOS
+    String scan();
+}
